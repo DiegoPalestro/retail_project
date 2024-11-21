@@ -8,7 +8,7 @@ _Estas instrucciones te permitirán clonar y ejecutar este proyecto en tu máqui
 
 ### Pre-requisitos 📋
 
-_Antes de empezar, asegúrate de tener instalados los siguientes componentes:
+_Antes de empezar, asegúrate de tener instalados los siguientes componentes:_
 
 Git (https://git-scm.com/)
 Un editor de código, como VS Code (https://code.visualstudio.com/)
