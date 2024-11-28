@@ -36,11 +36,3 @@ _Para ejecutar este proyecto en un entorno local, necesitas instalar los siguien
 * **Benjamin Gallardo** - *Documentación* - [MeyersitoDuoc](https://github.com/MeyersitoDuoc)
 * **Benjamin González** - *Documentación* - [benjam33](https://github.com/benjam33)
 * **Diego Palestro** - *Documentación* - [DiegoPalestro](https://github.com/DiegoPalestro)
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita un café ☕ al equipo.
-* Agradece públicamente o dona a las causas que apoyamos.
-
----
