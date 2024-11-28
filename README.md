@@ -4,7 +4,7 @@ _El proyecto "Implementación de GitHub en Retail" tiene como objetivo analizar 
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán clonar y ejecutar este proyecto en tu máquina local para explorar sus funcionalidades y probar las implementaciones._
+Estas instrucciones te permitirán clonar y ejecutar este proyecto en tu máquina local para explorar sus funcionalidades y probar las implementaciones.
 
 ### Pre-requisitos 📋
 
